@@ -1,0 +1,48 @@
+.versalitas {
+	font-size: small;
+	text-transform: uppercase;
+}
+
+button[data-target="#IntroEnglish"] {
+	display: block;
+	width: 15em;
+	height: auto;
+	margin: 0 auto; 
+}
+
+footer {
+	margin-top: 2em;
+}
+
+.imgperfil {
+	float: left;
+	max-width: 200px;
+	height: auto;
+	margin-right: 0.8em;
+	margin-bottom: 1em;
+}
+
+.bio {
+	margin-left: 10em;
+}
+
+.bio2 {
+	margin-left: 13.2em;
+}
+
+span[lang="el"]{
+	font-family: Roboto, sans-serif;
+}
+
+.jumbotron > h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.jumbotron > h2 {
+	text-align: center;
+}
+
+.jumbotron > h3 {
+	text-align: center;
+}
