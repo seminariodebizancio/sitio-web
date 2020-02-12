@@ -57,6 +57,7 @@ span[lang="el"]{
 }
 
 #cartel {
-	width: 30%;
+	width: 50%;
 	height: auto;
+	justify-content: center;
 }
