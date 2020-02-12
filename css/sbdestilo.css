@@ -55,9 +55,3 @@ span[lang="el"]{
 .tr2 {
 	background-color: #FFFFF0; 
 }
-
-.img.fluid {
-	width: 50%;
-	height: auto;
-	justify-content: center;
-}
