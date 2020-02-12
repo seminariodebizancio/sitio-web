@@ -480,9 +480,7 @@ mark,
 }
 
 .img-fluid {
-  display: flex;
-  justify-content: center;
-  max-width: 80%;
+  max-width: 100%;
   height: auto;
 } 
 
