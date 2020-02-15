@@ -61,4 +61,10 @@ span[lang="el"]{
   max-width: 75%;
   height: auto;
   margin: 0 auto;
-} 
+}
+#retorno {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
