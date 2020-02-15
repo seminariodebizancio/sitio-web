@@ -68,6 +68,6 @@ span[lang="el"]{
 	border-radius: 0.5em;
 	padding-top: 0.5em;
 }
-#modalidades ul {
+.modalidades {
 	list-style-type: lower-greek;	
 }
