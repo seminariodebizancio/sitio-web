@@ -62,3 +62,11 @@ span[lang="el"]{
   height: auto;
   margin: 0 auto;
 }
+
+#modalidades {
+	border: 1px solid black;
+	border-radius: 1em;
+}
+p+ul {
+	list-style-type: lower-greek;	
+}
