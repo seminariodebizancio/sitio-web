@@ -19,18 +19,9 @@ footer {
 	float: right;
 	max-width: 200px;
 	height: auto;
-	margin-right: 0.8em;
+	margin-left: 0.8em;
 	margin-bottom: 1em;
 }
-
-/*.bio {
-	margin-left: 10em;
-}
-
-.bio2 {
-	margin-left: 13.2em;
-}
-*/
 
 span[lang="el"]{
 	font-family: Roboto, sans-serif;
