@@ -63,7 +63,7 @@ span[lang="el"]{
   margin: 0 auto;
 }
 
-#retorno {
+.retorno {
 	display: block;
 	max-width: 100%;
 	height: auto;
