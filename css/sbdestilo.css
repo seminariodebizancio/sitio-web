@@ -64,6 +64,7 @@ span[lang="el"]{
 }
 
 .retorno {
-	display: flex;
-	justify-content: center;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
 }
